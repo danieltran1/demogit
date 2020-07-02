@@ -1,6 +1,5 @@
 print('hello')
 print('welcome to the discord')
-x = 4
-y = 5
-t = x + y
-print(t)
+x = 'try testing number 12312312312)'
+print (x)
+
